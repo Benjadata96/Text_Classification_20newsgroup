@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 29 10:39:50 2018
-
-@author: BenjaminSalem
-"""
-
 import numpy
 import codecs
 import gensim
