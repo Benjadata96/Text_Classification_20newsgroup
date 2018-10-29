@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 29 10:43:34 2018
-
-@author: BenjaminSalem
-"""
-
 from Datas_20News import *
 from Model_Training_20News import *
 
